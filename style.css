@@ -5,5 +5,10 @@ h1{
     font-family: "DM Serif Display", serif;
   font-style: normal;
   text-align: center;
-  padding: 5%;;
+  padding: 5%;
+}
+h2{
+  font-family: "DM Serif Display", serif;
+  font-style: normal;
+  padding: 5%;
 }
